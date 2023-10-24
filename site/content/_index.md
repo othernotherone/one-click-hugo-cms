@@ -4,7 +4,10 @@ subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
-  text: asdf
+  text: We sell green and roasted coffee beans that are sourced directly from
+    independent farmers and farm cooperatives. We’re proud to offer a variety of
+    coffee beans grown with great care for the environment and local
+    communities. Check our post or contact us directly for current availability.
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
